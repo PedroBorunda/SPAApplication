@@ -1,0 +1,154 @@
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\ApplicationInsights.config
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\csc.exe
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\vbc.exe
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\SPAApplication.dll.config
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\SPAApplication.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\SPAApplication.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Antlr3.Runtime.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\EntityFramework.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\EntityFramework.SqlServer.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.AI.Web.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.AI.WindowsServer.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.ApplicationInsights.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Newtonsoft.Json.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Net.Http.Formatting.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Helpers.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Http.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Http.WebHost.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Mvc.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Optimization.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Razor.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.WebPages.Deployment.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.WebPages.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.WebPages.Razor.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\WebGrease.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\EntityFramework.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\EntityFramework.SqlServer.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.AI.Web.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.ApplicationInsights.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Newtonsoft.Json.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Net.Http.Formatting.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Helpers.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Http.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Http.WebHost.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Mvc.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Optimization.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.Razor.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.WebPages.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.WebPages.Deployment.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\System.Web.WebPages.Razor.xml
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\Antlr3.Runtime.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\es\System.Web.Helpers.resources.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\es\System.Web.Http.resources.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\es\System.Web.Mvc.resources.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\es\System.Web.Optimization.resources.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\es\System.Web.Razor.resources.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\es\System.Web.WebPages.resources.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\obj\Debug\SPAApplication.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\obj\Debug\SPAApplication.dll
+c:\users\pedro\documents\visual studio 2015\Projects\SPAApplication\SPAApplication\obj\Debug\SPAApplication.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\SPAApplication\SPAApplication\obj\Debug\SPAApplication.Migrations.InitialCreate.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\SPAApplication\SPAApplication\obj\Debug\SPAApplication.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\SPAApplication\SPAApplication\obj\Debug\SPAApplication.Migrations.DBChange1.resources
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\ApplicationInsights.config
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\csc.exe
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\vbc.exe
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\SPAApplication.dll.config
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\SPAApplication.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\SPAApplication.pdb
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Antlr3.Runtime.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\EntityFramework.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Newtonsoft.Json.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Helpers.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Http.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Mvc.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Optimization.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Razor.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.WebPages.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\WebGrease.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\EntityFramework.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Newtonsoft.Json.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Helpers.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Http.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Mvc.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Optimization.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.Razor.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.WebPages.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\es\System.Web.Http.resources.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\es\System.Web.Razor.resources.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\obj\Debug\SPAApplication.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\obj\Debug\SPAApplication.Migrations.InitialCreate.resources
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\obj\Debug\SPAApplication.Migrations.DBChange1.resources
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\obj\Debug\SPAApplication.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\obj\Debug\SPAApplication.dll
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\obj\Debug\SPAApplication.pdb
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\obj\Debug\SPAApplication.Migrations.DBChange2.resources
+C:\Users\Pedro\Desktop\SPAApplication\SPAApplication\obj\Debug\SPAApplication.Migrations.DBChange3.resources
